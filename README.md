@@ -6,3 +6,6 @@
 ## Start from GUI tools
 ### SourceTreec
 ### VS Code
+
+## Test from termnal
+### Test

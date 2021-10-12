@@ -7,4 +7,18 @@
 
 ### SourceTreec
 
+
 ### VS Code
+
+## Test from termnal
+
+## 20210915 test
+
+## 20210915 second test
+
+## 20210929 third test
+### additional test
+
+## 20211006
+### change in Readme.md
+

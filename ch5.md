@@ -2,3 +2,4 @@
 
 ## From branch1
 ## Test for ch 5
+## git commit --amend

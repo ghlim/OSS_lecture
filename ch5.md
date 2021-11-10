@@ -5,3 +5,6 @@
 
 ## new commit From branch1
 ## git commit --amend 
+
+## new new commit From branch1
+## git commit
